@@ -2,7 +2,8 @@
 
 // Define defaults for each variable.
 
-$base-font-family: "Noto Sans Light", AppleSDGothicNeo-Regular, "Malgun Gothic", "Apple Color Emoji", Helvetica, Arial, Oswald, sans-serif, !default;
+// , Arial, "Noto Sans Light", AppleSDGothicNeo-Regular, "Malgun Gothic", "Apple Color Emoji", Oswald, sans-serif, !default;
+$base-font-family: Helvetica;
 $base-font-size: 14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
